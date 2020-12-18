@@ -6,7 +6,7 @@ httptools==0.1.1
 joblib==1.0.0
 mkl-fft
 mkl-random
-mkl-service==2021.1.1
+mkl-service==2019.0
 numpy==1.19.4
 pandas==1.1.5
 pydantic==1.7.3
