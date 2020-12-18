@@ -4,7 +4,7 @@ fastapi==0.62.0
 h11==0.11.0
 httptools==0.1.1
 joblib==1.0.0
-mkl-fft==
+mkl-fft
 mkl-random==1.1.1
 mkl-service==2.3.0
 numpy==1.19.4
