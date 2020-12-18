@@ -1,0 +1,26 @@
+certifi==2020.12.5
+click==7.1.2
+fastapi @ file:///home/conda/feedstock_root/build_artifacts/fastapi_1606683475274/work
+h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1602532379520/work
+httptools @ file:///home/conda/feedstock_root/build_artifacts/httptools_1602325995818/work
+joblib==1.0.0
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy==1.19.4
+pandas==1.1.5
+pydantic==1.7.3
+python-dateutil==2.8.1
+python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/python-dotenv_1603979006023/work
+pytz==2020.4
+PyYAML==5.3.1
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1598376899566/work
+scipy==1.5.4
+six==1.15.0
+starlette==0.14.1
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+uvicorn @ file:///home/conda/feedstock_root/build_artifacts/uvicorn_1607782697788/work
+uvloop==0.14.0
+watchgod @ file:///home/conda/feedstock_root/build_artifacts/watchgod_1592453122359/work
+websockets @ file:///home/conda/feedstock_root/build_artifacts/websockets_1602327018333/work
+wget==3.2
